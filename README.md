@@ -5,3 +5,9 @@
 # Motivation
 
 To create a Deep Learning tutorial repository for beginners 👦 👧
+
+# Resources
+
+- Kirill Eremenko  👦
+
+- Andrew Ng  👦
