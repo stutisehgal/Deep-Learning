@@ -11,3 +11,5 @@ To create a Deep Learning tutorial repository for beginners 👦 👧
 - Kirill Eremenko  👦
 
 - Andrew Ng  👦
+
+- DataCamp 💻
